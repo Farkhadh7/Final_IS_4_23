@@ -1,0 +1,9 @@
+INFO: Task started
+ERROR: File not found
+WARNING: Disk space running low
+INFO: Attempting to reconnect
+ERROR: Unable to connect to database
+INFO: Task completed successfully
+ERROR: Failed to load configuration file
+WARNING: High CPU usage detected
+INFO: System shutting down
