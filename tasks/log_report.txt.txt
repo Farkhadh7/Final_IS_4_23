@@ -1,0 +1,24 @@
+========================  
+    LOG ANALYSIS REPORT  
+========================  
+Date: 2025-04-10 
+Time: 16:30:42  
+
+Files Analyzed:  
+- log1.txt  
+- log2.txt  
+
+Analysis Results:  
+-----------------  
+ERROR messages: 5  
+WARNING messages: 3  
+INFO messages: 12  
+Total logs analyzed: 20  
+
+Critical Issues:  
+- log1.txt: 3 instances of "ERROR: File not found".  
+- log2.txt: 2 instances of "ERROR: Permission denied".  
+
+Summary:  
+---------  
+Urgent action needed: File access errors dominate the logs. Investigate file paths and user permissions.  
